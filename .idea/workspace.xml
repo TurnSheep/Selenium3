@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/imooc/web/SeleniumAction.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01e3514b-4d0c-4784-81b7-ca4d0e54b8e6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1982473384">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="37" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.101" value="2" />
+          <entry key="project.open.time.106" value="1" />
+          <entry key="project.open.time.109" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.112" value="1" />
+          <entry key="project.open.time.119" value="1" />
+          <entry key="project.open.time.191" value="1" />
+          <entry key="project.open.time.270" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.57" value="2" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.96" value="2" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.opened" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="2020-04-04" value="1" />
+          <entry key="2020-04-05" value="1" />
+          <entry key="2020-04-07" value="1" />
+          <entry key="class" value="77" />
+          <entry key="html" value="10" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="121" />
+          <entry key="log" value="20" />
+          <entry key="png" value="7" />
+          <entry key="properties" value="20" />
+          <entry key="xml" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="77" />
+          <entry key="HTML" value="10" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="7" />
+          <entry key="JAVA" value="121" />
+          <entry key="Log" value="12" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Properties" value="20" />
+          <entry key="XML" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="2020-04-05" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="10006" />
+          <entry key="log" value="2" />
+          <entry key="properties" value="355" />
+          <entry key="xml" value="322" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="10006" />
+          <entry key="Log" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="355" />
+          <entry key="XML" value="322" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/BuyShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>driver</find>
+      <find>{}</find>
+      <find>static</find>
+      <find>UpF</find>
+      <find>Actions</find>
+      <find>switch</find>
+      <find>List&lt;WebElement&gt;</find>
+      <find>presenceOfElementLocated</find>
+      <find>get</find>
+      <find>geti</find>
+      <find>WriterAppender</find>
+      <find>gettext</find>
+      <find>getT</find>
+      <find>getTe</find>
+      <find>你的</find>
+      <find>report</find>
+      <find>template.html</find>
+      <find>templatePath</find>
+      <find>path</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/web/SelsniumOne.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/User.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/web/SeleniumMaven.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/test/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/web/TestngCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/web/CourseList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/web/OneTestCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imocc/page/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imoocu/util/ProUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/imooc/handle/LoginHandle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imocc/page/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/web/TestngListenerScrenn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/page/BasePage.java" />
+        <option value="$PROJECT_DIR$/vincent_player_debug.log.2020-04-05" />
+        <option value="$PROJECT_DIR$/src/main/resources/Element.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/web/SeleniumAction.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/runcase/LoginCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/handle/LoginHandle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/runcase/BaseCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/util/TestCaseReport.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/UIAutomation.iml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imooc/page/LoginPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="handle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="runcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UIAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586428349800" />
+    <property name="last_opened_file_path" value="D:/12/hzy-demochart1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaWork\Java\UIAutomation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaWork\Java\UIAutomation\src\main\java\com\imooc\util" />
+      <recent name="E:\IdeaWork\Java\UIAutomation\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml">
+    <configuration name="CourseList.test02" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.web" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.web.CourseList" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCase" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.runcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.runcase" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.runcase.LoginCase" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCase.TestLoginEmailError" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.runcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.runcase" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.runcase.LoginCase" />
+      <option name="METHOD_NAME" value="TestLoginEmailError" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCase.TestLoginSucess" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.runcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.runcase" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.runcase.LoginCase" />
+      <option name="METHOD_NAME" value="TestLoginSucess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CourseList.test02" />
+      <item itemvalue="TestNG.LoginCase.TestLoginSucess" />
+      <item itemvalue="TestNG.LoginCase.TestLoginEmailError" />
+      <item itemvalue="TestNG.LoginCase" />
+      <item itemvalue="TestNG.E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.LoginCase.TestLoginSucess" />
+        <item itemvalue="TestNG.LoginCase" />
+        <item itemvalue="TestNG.LoginCase.TestLoginEmailError" />
+        <item itemvalue="TestNG.CourseList.test02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01e3514b-4d0c-4784-81b7-ca4d0e54b8e6" name="Default Changelist" comment="" />
+      <created>1585463839891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585463839891</updated>
+      <workItem from="1585463844154" duration="1585000" />
+      <workItem from="1585469585535" duration="203000" />
+      <workItem from="1585469834593" duration="453000" />
+      <workItem from="1585470314290" duration="486000" />
+      <workItem from="1585470831464" duration="5137000" />
+      <workItem from="1585476008241" duration="181000" />
+      <workItem from="1585476299376" duration="3289000" />
+      <workItem from="1585487115692" duration="5304000" />
+      <workItem from="1585531763511" duration="9182000" />
+      <workItem from="1585573941199" duration="5278000" />
+      <workItem from="1585618339328" duration="4319000" />
+      <workItem from="1585642078269" duration="6049000" />
+      <workItem from="1585661523886" duration="4628000" />
+      <workItem from="1585705085643" duration="112000" />
+      <workItem from="1585717574588" duration="7912000" />
+      <workItem from="1585749118387" duration="6397000" />
+      <workItem from="1585793266325" duration="22125000" />
+      <workItem from="1585831316462" duration="4572000" />
+      <workItem from="1585837453252" duration="3611000" />
+      <workItem from="1585876789185" duration="1698000" />
+      <workItem from="1585878639032" duration="677000" />
+      <workItem from="1585879345916" duration="842000" />
+      <workItem from="1585902855777" duration="1343000" />
+      <workItem from="1585920540048" duration="1244000" />
+      <workItem from="1585922590992" duration="6925000" />
+      <workItem from="1585970535456" duration="15072000" />
+      <workItem from="1586009453167" duration="4751000" />
+      <workItem from="1586075483442" duration="5002000" />
+      <workItem from="1586085988679" duration="1007000" />
+      <workItem from="1586096694966" duration="1702000" />
+      <workItem from="1586144862380" duration="11478000" />
+      <workItem from="1586178739475" duration="5996000" />
+      <workItem from="1586223173514" duration="18054000" />
+      <workItem from="1586309756471" duration="11958000" />
+      <workItem from="1586335972308" duration="7624000" />
+      <workItem from="1586352633743" duration="2784000" />
+      <workItem from="1586425573115" duration="1493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 16h 13m 17s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 16h 27m 02s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 16h 29m 54s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 16h 34m 04s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 16h 35m 15s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 16h 46m 04s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 16h 48m 14s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 17h 02m 47s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 18h 08m 02s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="E__IdeaWork_Java_UIAutomation_src_main_resources_testng_xml - 2020.04.08 at 18h 40m 52s.xml">
+      <configuration name="E:/IdeaWork/Java/UIAutomation/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="190473000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24200426" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.35969663" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27410617" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.3163597" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946696" weight="0.20801733" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18976545" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.34236187" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27410617" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.3163597" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/IAttributes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/Jdk/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1537">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/ITestResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.imooc.web.TestngListenerScrenn_2020_04_04_15_58_34.png" />
+    <entry file="file://$PROJECT_DIR$/com.imooc.web.TestngListenerScrenn_2020_04_04_15_58_33.png" />
+    <entry file="file://$PROJECT_DIR$/com.imooc.web.TestngListenerScrenn_2020_04_04_15_57_23.png" />
+    <entry file="file://$PROJECT_DIR$/vincent_player_debug.log.2020-04-04" />
+    <entry file="jar://E:/Java/Jdk/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="694" column="16" selection-start-line="694" selection-start-column="16" selection-end-line="694" selection-end-column="16" />
+          <folding>
+            <element signature="e#24380#24381#0" expanded="true" />
+            <element signature="e#24405#24406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/SelsniumOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/SeleniumMaven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2575">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.imooc.web.TestngListenerScrenn_2020_04_07_18_31_58.png" />
+    <entry file="file://$PROJECT_DIR$/com.imooc.web.TestngListenerScrenn_2020_04_07_18_31_57.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/TestngCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/util/ProUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/CourseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vincent_player_debug.log.2020-04-05" />
+    <entry file="file://$PROJECT_DIR$/vincent_player_error.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="84" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="84" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.4.0/selenium-chrome-driver-3.4.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/SeleniumAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vincent_player_debug.log.2020-04-07" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/OneTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="58" column="54" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Element.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="8" selection-start-line="5" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.imooc.web.TestngListenerScrenn_2020_04_08_17_02_33.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/util/TestCaseReport.class" />
+    <entry file="jar://E:/Java/Jdk/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="420" column="13" selection-start-line="420" selection-start-column="13" selection-end-line="420" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/html/overview.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/html/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/Java/Jdk/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="126" column="49" lean-forward="true" selection-start-line="126" selection-start-column="49" selection-end-line="126" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UIAutomation.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/Java/Jdk/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="221" column="31" selection-start-line="221" selection-start-column="31" selection-end-line="221" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/xml/com.imooc.runcase.LoginCase_results.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/html/suite1_test1_results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/html/suites.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-584" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vincent_player_debug.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-44048">
+          <caret line="73" column="75" lean-forward="true" selection-start-line="73" selection-start-column="75" selection-end-line="73" selection-end-column="75" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="5075">
+          <caret line="203" column="72" lean-forward="true" selection-start-line="191" selection-start-column="9" selection-end-line="206" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1091">
+          <caret line="54" column="18" lean-forward="true" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/ITestNGListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/IReporter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/page/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/runcase/BaseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="89" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/runcase/LoginCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/page/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/handle/LoginHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestListenerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020年-04月-08日-18时40分20秒report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="6906" column="24" selection-start-line="6906" selection-start-column="24" selection-end-line="6906" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/TestngListenerScrenn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/util/TestCaseReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="269" column="45" lean-forward="true" selection-start-line="269" selection-start-column="45" selection-end-line="269" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2140#2153#0" expanded="true" />
+            <element signature="e#3504#3794#0" expanded="true" />
+            <element signature="e#3793#3794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/web/BuyShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>UIAutomation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36206895" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:3.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
