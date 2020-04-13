@@ -5,9 +5,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BaseCase {
-
+    public WebDriver driver;
     public WebDriver GetDriver(String browser){
-        WebDriver driver;
+
         if (browser.equalsIgnoreCase("chrome")){
                 System.setProperty("webdriver.chrome.driver","C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\Application\\chromedriver.exe");
             driver=new ChromeDriver();

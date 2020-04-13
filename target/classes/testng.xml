@@ -20,18 +20,33 @@
             </class>
         </classes>
     </test>
-    <!--<test name="test2">-->
-        <!--<parameter name="username" value="6257071271@qq.com"/>-->
-        <!--<parameter name="password" value="5211314hzy...."/>-->
-        <!--<parameter name="url" value="https://www.imooc.com"/>-->
-        <!--<parameter name="browser" value="firefox"/>-->
-        <!--<classes>-->
-            <!--&lt;!&ndash;classd代表需要运行的类&ndash;&gt;-->
-            <!--<class name="com.imooc.runcase.LoginCase">-->
-                <!--<methods>-->
-                    <!--<include name="TestLoginEmailError"/>-->
-                <!--</methods>-->
-            <!--</class>-->
-        <!--</classes>-->
-    <!--</test>-->
+    <test name="test2">
+        <parameter name="url" value="https://coding.imooc.com/class/303.html"/>
+        <parameter name="browser" value="chrome"/>
+        <parameter name="coursename" value="剑指Java面试-Offer直通车"/>
+        <classes>
+            <!--classd代表需要运行的类-->
+            <class name="com.imooc.runcase.CourseCase">
+                <methods>
+                    <include name="TestAleradyAdd"/>
+                    <include name="TestAleradyBuy"/>
+                    <include name="TestAleradyLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Sureorder">
+        <parameter name="url" value="https://order.imooc.com/pay/confirm/goods_ids/1-315"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <!--classd代表需要运行的类-->
+            <class name="com.imooc.runcase.SureSubmitCase">
+                <methods>
+                    <include name="LoginSureSubmit"/>
+                    <include name="aSureSubmit"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
 </suite>

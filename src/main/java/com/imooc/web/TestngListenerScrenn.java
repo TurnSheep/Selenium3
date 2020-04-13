@@ -1,6 +1,7 @@
 package com.imooc.web;
 
 import com.google.common.io.Files;
+import com.imooc.runcase.BaseCase;
 import com.imooc.runcase.LoginCase;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.WebDriver;
@@ -22,7 +23,7 @@ public class TestngListenerScrenn extends TestListenerAdapter {
 
     @Override
     public void onTestFailure(ITestResult var1) {
-        LoginCase tc=(LoginCase)var1.getInstance();
+        BaseCase tc=(BaseCase)var1.getInstance();
         WebDriver driver=tc.driver;
         this.TakeScreenShot(driver);
         super.onTestFailure(var1);

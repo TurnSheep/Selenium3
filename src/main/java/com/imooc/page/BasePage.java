@@ -3,9 +3,12 @@ package com.imooc.page;
 import com.imooc.util.ProUtil;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+
+import java.util.Set;
 
 
 public class BasePage {
@@ -44,11 +47,20 @@ public class BasePage {
         Actions MoseActions=new Actions(driver);
         MoseActions.moveToElement(ToElement).perform();
     }
-
-    //    封装Element
+//    封装Element
     public WebElement GetElement(String Key)  {
         WebElement Element=driver.findElement(this.GetByLocal(Key));
         return Element;
     }
-
+//    封装获取cookle操作
+    public boolean GetCookie(String key){
+        boolean flag=false;
+        Set<Cookie> cookies=driver.manage().getCookies();
+        for (Cookie cookie:cookies) {
+            if(cookie.getName().equals(key)){
+                flag=true;
+            }
+        }
+        return flag;
+    }
 }

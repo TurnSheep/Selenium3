@@ -57,6 +57,7 @@ public class CourseList {
 
     }
 
+//    获取总页数
     public List<Integer> GetPageNum(){
         List<Integer> pageNumList=new ArrayList<Integer>();
         List<WebElement> aElementList=driver.findElement(By.className("page")).findElements(By.tagName("a"));
