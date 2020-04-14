@@ -40,11 +40,12 @@ public class CourseCase extends BaseCase{
         driver.close();
     }
 
+//    enabled = false  可跳过执行改case
     @Parameters({"coursename"})
-    @Test
+    @Test(enabled = false)
     public void TestAleradyAdd(String coursename) throws InterruptedException {
         int  a=0;
-        String course_title=courseHandle.GetCourseTitle();
+        String course_title=courseHandle.GetTitle();
         boolean flag=course_title.contains(coursename);
         Assert.assertEquals(true,flag);
         courseHandle.SetCookie();

@@ -34,11 +34,11 @@ import com.google.gson.GsonBuilder;
 public class TestCaseReport implements IReporter {
 
     private long currentTime = System.currentTimeMillis();
-    private SimpleDateFormat formatter = new SimpleDateFormat ("yyyy年-MM月-dd日-HH时mm分ss秒");
-    private Date date = new Date(currentTime);
-    private String reportdate = formatter.format(date);
+//    private SimpleDateFormat formatter = new SimpleDateFormat ("yyyy年-MM月-dd日-HH时mm分ss秒");
+//    private Date date = new Date(currentTime);
+//    private String reportdate = formatter.format(date);
 
-    private String path = System.getProperty("user.dir")+File.separator+reportdate+"report.html";
+    private String path = System.getProperty("user.dir")+File.separator+"UI自动化测试报告.html";
 
     private String templatePath = System.getProperty("user.dir")+File.separator+"template.html";
 

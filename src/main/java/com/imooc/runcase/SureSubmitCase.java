@@ -54,7 +54,7 @@ public class SureSubmitCase extends BaseCase{
         String submitTitle;
         submitHandle.SetCookie();
         driver.get(url);
-        submitTitle=submitHandle.GetSubmitTitle();
+        submitTitle=submitHandle.GetTitle();
         boolean flag=submitTitle.contains("确认订单");
         Assert.assertEquals(flag,true);
         submitHandle.ClickSureSubmitElement();
@@ -65,7 +65,7 @@ public class SureSubmitCase extends BaseCase{
     public void aSureSubmit(String url){
         String submitTitle;
         driver.get(url);
-        submitTitle=submitHandle.GetSubmitTitle();
+        submitTitle=submitHandle.GetTitle();
         System.out.println("打印：aSureSubmit"+submitTitle);
         try {
             Thread.sleep(2000);

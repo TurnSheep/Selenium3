@@ -5,10 +5,11 @@ import com.imooc.page.LoginPage;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
-public class LoginHandle {
+public class LoginHandle extends BaseHandle{
     public LoginPage loginPage;
     public Logger logger=Logger.getLogger(LoginHandle.class);
     public LoginHandle(WebDriver driver){
+        super(driver);
         loginPage=new LoginPage(driver);
     }
 
@@ -23,12 +24,12 @@ public class LoginHandle {
     }
 
     public void ClickSenvenBox(){
-        loginPage.GetSenvenElement().click();
+        ClickElement(loginPage.GetSenvenElement());
     }
 
     public void ClickLogin(){
         logger.debug("你开始点击登录");
-        loginPage.GetLoginElement().click();
+        ClickElement(loginPage.GetLoginElement());
         try {
             Thread.sleep(2000);
         } catch (InterruptedException e) {
@@ -42,6 +43,6 @@ public class LoginHandle {
     }
 
     public void ClickSigninButon(){
-        loginPage.GetSigninElement().click();
+        ClickElement(loginPage.GetSigninElement());
     }
 }
