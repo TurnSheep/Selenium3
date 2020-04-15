@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="test2"
-           tests="3"
+           tests="1"
            failures="0"
            errors="0"
            skipped="0"
-           time="15.506">
+           time="11.163">
   <properties />
   
   
-            <testcase name="TestAleradyLogin" time="4.171" classname="com.imooc.runcase.CourseCase" />
-                <testcase name="TestAleradyAdd" time="7.166" classname="com.imooc.runcase.CourseCase" />
-                <testcase name="TestAleradyBuy" time="4.169" classname="com.imooc.runcase.CourseCase" />
+            <testcase name="TestAleradyAdd" time="11.163" classname="com.imooc.runcase.CourseCase" />
       
 </testsuite>

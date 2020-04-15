@@ -4,6 +4,7 @@ import com.imooc.page.BasePage;
 import com.imooc.page.LoginPage;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 public class LoginHandle extends BaseHandle{
     public LoginPage loginPage;
@@ -15,12 +16,16 @@ public class LoginHandle extends BaseHandle{
 
     public void SendEmail(String email){
         logger.debug("你输入的账号为："+email);
-        loginPage.GetEmailElement().sendKeys(email);
+        WebElement emailElement=loginPage.GetEmailElement();
+        ClearText(emailElement);
+        emailElement.sendKeys(email);
     }
 
     public void SendPassword(String password){
         logger.debug("你输入的密码为："+password);
-        loginPage.GetPasswordElement().sendKeys(password);
+        WebElement passwordElement=loginPage.GetPasswordElement();
+        ClearText(passwordElement);
+        passwordElement.sendKeys(password);
     }
 
     public void ClickSenvenBox(){

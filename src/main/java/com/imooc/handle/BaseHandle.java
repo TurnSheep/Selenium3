@@ -19,7 +19,14 @@ public class BaseHandle {
     public String GetTitle(){
         return driver.getTitle();
     }
+
+//    封装点击事件
     public void ClickElement(WebElement webElement){
         webElement.click();
+    }
+
+//    清空输入框
+    public void ClearText(WebElement webElement){
+        webElement.clear();
     }
 }

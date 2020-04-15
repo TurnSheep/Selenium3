@@ -42,7 +42,7 @@ public class CourseCase extends BaseCase{
 
 //    enabled = false  可跳过执行改case
     @Parameters({"coursename"})
-    @Test(enabled = false)
+    @Test
     public void TestAleradyAdd(String coursename) throws InterruptedException {
         int  a=0;
         String course_title=courseHandle.GetTitle();
