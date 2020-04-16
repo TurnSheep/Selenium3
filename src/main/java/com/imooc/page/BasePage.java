@@ -7,6 +7,9 @@ import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Set;
 
@@ -49,7 +52,23 @@ public class BasePage {
     }
 //    封装Element
     public WebElement GetElement(String Key)  {
-        WebElement Element=driver.findElement(this.GetByLocal(Key));
+        WebElement Element = null;
+//        WebElement Element=driver.findElement(this.GetByLocal(Key));
+//        return Element;
+        boolean flag=true;
+        while (flag) {
+            try{
+                WebDriverWait wait = new WebDriverWait(driver, 10, 500L);
+                Element = wait.until(ExpectedConditions.presenceOfElementLocated(GetByLocal(Key)));
+                if(Element.isDisplayed()){
+                    flag=false;
+                }
+            }catch (Exception e){
+                logger.debug("元素未找到"+Key);
+                flag=false;
+            }
+
+        }
         return Element;
     }
 //    封装获取cookle操作

@@ -11,6 +11,9 @@ public class LoginCase extends BaseCase{
     public WebDriver driver;
     public LoginHandle loginHandle;
     @Parameters({"url","browser"})
+//    当test方法加上group时，不会执行beforeclass操作，二种操作方式可避免
+//    1.@BeforeClass和@AfterClass注解的方法加上属性(alwaysRun = true)，即可正常执行。
+//    2.@BeforeGroups @AfterGroups 作用于初始化操作
     @BeforeClass
     public void beforeClass(String url,String browser){
         driver =GetDriver(browser);
@@ -38,6 +41,8 @@ public class LoginCase extends BaseCase{
 
 //    默认如果没有在xml中取到Parameters的值 测试方法将接受在@optional注解中指定的默认值
     @Parameters({"username","password"})
+//    @Test(groups = "sucess",dependsOnMethods = {"beforeClass"})--dependsOnMethods依赖于某个方法执行,
+//    dependsOnGroups依赖于某个组
     @Test
     public void TestLoginSucess(String username,String password){
         loginHandle.SendEmail(username);
@@ -49,7 +54,7 @@ public class LoginCase extends BaseCase{
     }
 
     @Parameters({"username","password"})
-    @Test
+    @Test(groups = "error")
     public void TestLoginEmailError(String username,String password){
         loginHandle.SendEmail(username);
         loginHandle.SendPassword(password);

@@ -35,11 +35,6 @@ public class LoginHandle extends BaseHandle{
     public void ClickLogin(){
         logger.debug("你开始点击登录");
         ClickElement(loginPage.GetLoginElement());
-        try {
-            Thread.sleep(2000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
     }
 
     public String GetUserText(){

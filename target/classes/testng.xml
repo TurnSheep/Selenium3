@@ -7,19 +7,26 @@
         <listener class-name="com.imooc.util.TestCaseReport"></listener>
         <listener class-name="com.imooc.web.TestngListennerSendEmail"></listener>
     </listeners>
+
     <!--抽取公共参数放到 suite下-->
     <parameter name="browser" value="chrome"/>
     <test name="test1">
         <parameter name="username" value="625707127@qq.com"/>
         <parameter name="password" value="5211314hzy...."/>
         <parameter name="url" value="https://www.imooc.com"/>
+        <groups>
+            <run>
+                <include name="sucess"></include>
+            </run>
+        </groups>
         <classes>
             <!--classd代表需要运行的类-->
             <class name="com.imooc.runcase.LoginCase">
                 <methods>
                     <include name="TestLoginEmailError"/>
                     <!--exclude   不执行改测试case-->
-                    <exclude name="TestLoginSucess"/>
+                    <!--<exclude name="TestLoginSucess"/>-->
+                    <include name="TestLoginSucess"/>
                 </methods>
             </class>
         </classes>
@@ -27,13 +34,20 @@
     <test name="test2">
         <parameter name="url" value="https://coding.imooc.com/class/303.html"/>
         <parameter name="coursename" value="剑指Java面试-Offer直通车"/>
-        <parameter name="browser" value="Firefox"/>
+        <!--<parameter name="browser" value="Firefox"/>-->
+        <groups>
+            <run>
+                <include name="sucess"></include>
+            </run>
+        </groups>
         <classes>
+
             <!--classd代表需要运行的类-->
             <class name="com.imooc.runcase.CourseCase">
                 <methods>
                     <include name="TestAleradyAdd"/>
-                    <exclude name="TestAleradyBuy"/>
+                    <include name="TestAleradyBuy"/>
+                    <!--<exclude name="TestAleradyBuy"/>-->
                     <exclude name="TestAleradyLogin"/>
                 </methods>
             </class>

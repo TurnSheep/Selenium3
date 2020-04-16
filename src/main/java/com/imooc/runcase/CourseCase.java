@@ -42,7 +42,7 @@ public class CourseCase extends BaseCase{
 
 //    enabled = false  可跳过执行改case
     @Parameters({"coursename"})
-    @Test
+    @Test(groups = "sucess")
     public void TestAleradyAdd(String coursename) throws InterruptedException {
         int  a=0;
         String course_title=courseHandle.GetTitle();
@@ -62,7 +62,7 @@ public class CourseCase extends BaseCase{
         Assert.assertEquals(a,1);
     }
 
-    @Test
+    @Test(groups = "error")
     public void TestAleradyBuy() throws InterruptedException {
         courseHandle.ClickAddCart();
         Thread.sleep(2000);
@@ -70,7 +70,7 @@ public class CourseCase extends BaseCase{
         Thread.sleep(2000);
     }
 
-    @Test
+    @Test(groups = "error")
     public void TestAleradyLogin() throws InterruptedException {
         courseHandle.ClickBuyNow();
         Thread.sleep(2000);
